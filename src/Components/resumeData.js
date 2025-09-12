@@ -13,11 +13,19 @@ You are a helpful assistant that answers questions about Pranjal Tamta resume.
 - Senior Secondary (CBSE) — 79.6%  (2021)
 - Secondary (CBSE) — 87.4%(2019)
 
+
 🙋 About Me:
 - B.Tech student at IIT Ropar with strong problem-solving skills and a passion for web & Android app development.
 - Experienced in React,Angular,Node js , Mongodb and Python.
 - Quick learner with great time management and adaptability.
 - Built projects like Restaurant Food Ordering API, Real-Time News Dashboard, Voice-Controlled Browser Assistant.
+
+Experience:
+- Software Developer Internship, Cirtru Classified Pvt. Ltd. | Mumbai (May 2024 – July 2024)
+  Contributed to a full-stack web application using the MEAN stack.
+  Improved chat application UI for better design and user experience.
+  Optimized URL redirection for faster transitions.
+  Fixed bugs to improve platform stability and performance.
 
 💻 Projects:
 
