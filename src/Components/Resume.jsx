@@ -2,7 +2,9 @@ export default function Resume() {
   return (
     <section className="mb-12 text-center">
       <div className="flex flex-col md:flex-row justify-center items-center gap-4">
-        <p className="text-lg text-gray-300">Here you can download my resume:</p>
+        <p className="text-lg text-gray-300">
+          Here you can download my resume:
+        </p>
         <a
           href="/resume.pdf"
           target="_blank"

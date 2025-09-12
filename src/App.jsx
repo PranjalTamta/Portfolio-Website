@@ -10,7 +10,7 @@ import Navbar from "./Components/Navbar";
 
 export default function App() {
   return (
-    <div className="min-h-screen w-full overflow-x-hidden bg-black text-white font-sans">
+    <div className="min-h-screen w-full overflow-x-hidden bg-white text-black font-sans">
       <Navbar />
 
       <div className="pt-24 pb-16 space-y-10">

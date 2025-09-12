@@ -1,4 +1,4 @@
-import { FaEnvelope, FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaEnvelope, FaGithub, FaLinkedin } from "react-icons/fa";
 
 export default function Contact() {
   return (
@@ -13,7 +13,7 @@ export default function Contact() {
           <span className="group-hover:text-white transition">Email</span>
         </a>
         <a
-          href="https://github.com/Sudhanshu-8"
+          href="https://github.com/PranjalTamta"
           target="_blank"
           rel="noopener noreferrer"
           className="group flex items-center gap-2 text-blue-400 hover:text-white transition"
@@ -22,7 +22,7 @@ export default function Contact() {
           <span className="group-hover:text-white transition">GitHub</span>
         </a>
         <a
-          href="https://www.linkedin.com/in/sudhanshu-gautam8/"
+          href="https://www.linkedin.com/in/pranjal-tamta-872809259/"
           target="_blank"
           rel="noopener noreferrer"
           className="group flex items-center gap-2 text-blue-400 hover:text-white transition"

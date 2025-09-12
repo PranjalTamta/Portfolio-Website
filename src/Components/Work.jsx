@@ -8,18 +8,18 @@ export default function Work() {
       <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
         {/* Mobile clickable card */}
         <a
-          href="https://github.com/Sudhanshu-8/bookStoreApp"
+          href="https://github.com/PranjalTamta/Restaurant-Food-Ordering-API-"
           target="_blank"
           rel="noopener noreferrer"
           className="block md:hidden"
         >
           <div className="relative overflow-hidden rounded-lg shadow-lg">
             <h3 className="text-white font-semibold text-lg mb-2">
-              Bookstore App
+              Restaurant Food Ordering API
             </h3>
             <img
               src="/work-1.png"
-              alt="Bookstore App"
+              alt="Restaurant Food Ordering API"
               className="w-full h-full object-cover"
             />
           </div>
@@ -32,13 +32,16 @@ export default function Work() {
             alt="Bookstore App"
             className="w-full h-full object-cover"
           />
-          <div className="absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100 transition duration-500">
-            <h3 className="text-xl font-bold text-white mb-2">Bookstore App</h3>
+          <div className="absolute inset-0 bg-blue-400 bg-opacity-70 flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100 transition duration-500">
+            <h3 className="text-xl font-bold text-white mb-2">
+              Restaurant Food Ordering API
+            </h3>
             <p className="text-sm text-gray-300 mb-4 px-2">
-              A full-stack bookstore application built with React and Node.js
+              Developed a restaurant app backend with MVC, JWT auth, role-based
+              access, CRUD, and tested RESTful APIs.
             </p>
             <a
-              href="https://github.com/Sudhanshu-8/bookStoreApp"
+              href="https://github.com/PranjalTamta/Restaurant-Food-Ordering-API-"
               target="_blank"
               rel="noopener noreferrer"
               className="text-red-400 text-xl hover:text-white transition"
@@ -48,16 +51,16 @@ export default function Work() {
           </div>
         </div>
 
-        {/* Project 2 - Weather App */}
+        {/* Project 2 - Real-Time News Dashboard */}
         <a
-          href="https://weather-app-plum-kappa.vercel.app/"
+          href="https://github.com/PranjalTamta/-Real-Time-News-"
           target="_blank"
           rel="noopener noreferrer"
           className="block md:hidden"
         >
           <div className="relative overflow-hidden rounded-lg shadow-lg">
             <h3 className="text-white font-semibold text-lg mb-2">
-              Weather App
+              Real-Time News Dashboard
             </h3>
             <img
               src="/work-2.png"
@@ -73,13 +76,17 @@ export default function Work() {
             alt="Weather App"
             className="w-full h-full object-cover"
           />
-          <div className="absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100 transition duration-500">
-            <h3 className="text-xl font-bold text-white mb-2">Weather App</h3>
+          <div className="absolute inset-0 bg-blue-400 bg-opacity-70 flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100 transition duration-500">
+            <h3 className="text-xl font-bold text-white mb-2">
+              Real-Time News Dashboard
+            </h3>
             <p className="text-sm text-gray-300 mb-4 px-2">
-              Live weather app built using APIs and deployed on Vercel
+              Built a React.js news dashboard with News API integration,
+              category filters, React Router, responsive UI, and Hooks for
+              real-time updates.
             </p>
             <a
-              href="https://weather-app-plum-kappa.vercel.app/"
+              href="https://github.com/PranjalTamta/-Real-Time-News-"
               target="_blank"
               rel="noopener noreferrer"
               className="text-red-400 text-xl hover:text-white transition"
@@ -89,16 +96,16 @@ export default function Work() {
           </div>
         </div>
 
-        {/* Project 3 - TodoList App */}
+        {/* Project 3 - Voice-Controlled Browser Assistant */}
         <a
-          href="https://github.com/Sudhanshu-8/ToDoListApp"
+          href="https://github.com/PranjalTamta/voice-assistant"
           target="_blank"
           rel="noopener noreferrer"
           className="block md:hidden"
         >
           <div className="relative overflow-hidden rounded-lg shadow-lg">
             <h3 className="text-white font-semibold text-lg mb-2">
-              Todolist App
+              Voice-Controlled Browser Assistant
             </h3>
             <img
               src="/work-3.png"
@@ -114,13 +121,17 @@ export default function Work() {
             alt="Todolist App"
             className="w-full h-full object-cover"
           />
-          <div className="absolute inset-0 bg-black bg-opacity-70 flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100 transition duration-500">
-            <h3 className="text-xl font-bold text-white mb-2">Todolist App</h3>
+          <div className="absolute inset-0 bg-blue-400 bg-opacity-70 flex flex-col justify-center items-center text-center opacity-0 group-hover:opacity-100 transition duration-500">
+            <h3 className="text-xl font-bold text-white mb-2">
+              Voice-Controlled Browser Assistant
+            </h3>
             <p className="text-sm text-gray-300 mb-4 px-2">
-              A simple and elegant to-do list manager built with clean UI
+              Developed a React-based voice assistant using Speech Recognition
+              API for hands-free browsing with voice commands and an intuitive
+              UI.
             </p>
             <a
-              href="https://github.com/Sudhanshu-8/ToDoListApp"
+              href="https://github.com/PranjalTamta/voice-assistant"
               target="_blank"
               rel="noopener noreferrer"
               className="text-red-400 text-xl hover:text-white transition"
@@ -133,7 +144,7 @@ export default function Work() {
 
       {/* Non-clickable see more text */}
       <div className="text-center mt-8">
-        <span className="text-red-500 text-sm font-semibold">See more</span>
+        <span className="text-blue-600 text-sm font-semibold">See more</span>
       </div>
     </section>
   );
